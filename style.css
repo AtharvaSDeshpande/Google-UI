@@ -1,0 +1,18 @@
+.menu-icon,.search-icon,.user-img {
+    height: 30px;
+}
+.mic-icon{
+    height: 25px;
+    align-self: center;
+}
+
+.search-box{
+    border-radius: 30px;
+}
+.search-bar:focus{
+    outline: none;
+}
+.footer {
+    color: #7e7e7e !important;
+    background-color: rgb(238, 238, 238) ;
+}
